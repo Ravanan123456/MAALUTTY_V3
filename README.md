@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
   
   ### Deploy server 1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan123456/MAALU) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ravanan123456/MAALU) 
 
   ### Deploy server 2
  
